@@ -10,13 +10,24 @@ const footerNav = [
   {
     Customization: documentationNav['Customization'],
     Community: [
+      { title: '💰 Swap', href: 'https://s.543x.com/' },
+      { title: '🎬 NextJS', href: 'https://c.543x.com/' },
+      { title: '⚛️ ReactApp ', href: 'https://e.543x.com/' },
+      { title: '🔯 React ', href: 'https://r.543x.com/' },
+      { title: '🍄  AI ', href: 'https://ai.543x.com/' },
+      { title: '📂 Firebase ', href: 'https://d.543x.com/' },
+      { title: '⛓️ blockchain', href: 'https://www.z2.pw/' },
+      { title: '📊GoogleSheet ', href: 'https://a.z2.pw/' },
+    ],
+    Website: [
       { title: 'GitHub', href: 'https://github.com/hyaliyun/tailwinds' },
-      { title: 'Discord', href: '/t.me/BNB123321scord' },
+      { title: '✝️ T3 app', href: 'https://f.543x.com/' },
       { title: 'Twitter', href: 'https://x.com/qq6719358093352' },
       { title: 'YouTube', href: 'https://www.youtube.com/@543x-com' },
       { title: 'React', href: 'https://g.543x.com' },
       { title: 'GoogleCloud', href: 'https://h.543x.com' },
       { title: 'Solana', href: 'https://i.543x.com' },
+      { title: '📰 Cms', href: 'https://w.z2.pw/' },
     ],
   },
 ]
